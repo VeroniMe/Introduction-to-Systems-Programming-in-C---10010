@@ -14,6 +14,8 @@ In this task, we will search for a submatrix within a large matrix that has the 
 For example: for a 20X20 matrix in which we are searching for a submatrix of size 2X2, the matrix highlighted in yellow was found.
 ### Example
 ![Example](./images/matrix.png)
+[![Example](images/matrix)]
+
 
 ## Colour Game
 Given a matrix board  [rows][cols] initialized to 0.
