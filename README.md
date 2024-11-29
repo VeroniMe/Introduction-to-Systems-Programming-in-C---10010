@@ -13,7 +13,7 @@ A "warm-up" exercise as an introduction to the course was the following task:
 In this task, we will search for a submatrix within a large matrix that has the maximum sum of its elements.
 For example: for a 20X20 matrix in which we are searching for a submatrix of size 2X2, the matrix highlighted in yellow was found.
 ### Example
-![Example](./images/matrix.png)
+![Example]([./images/matrix.png](https://github.com/VeroniMe/Introduction-to-Systems-Programming-in-C---10010/blob/main/images/matrix))
 
 ## Colour Game
 Given a matrix board  [rows][cols] initialized to 0.
@@ -25,5 +25,5 @@ For example, in the given drawing:
 COLORS = 3
 Colour values: 1 = black, 2 = dark gray, 3 = light gray.
 ### Example
-![Example](./images/colors.png)
+![Example]([./images/colors.png](https://github.com/VeroniMe/Introduction-to-Systems-Programming-in-C---10010/blob/main/images/colors))
 In this task, you must colour a matrix with COLOR colours until it is completely coloured (there is no 0 value in the matrix).
